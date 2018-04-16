@@ -1,1 +1,2 @@
 and simple
+Git can merge branches.
