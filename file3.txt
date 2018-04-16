@@ -1,2 +1,2 @@
 eeeeeeeeeeeeeeeee
-Git can merge branches.
+Git can be merged branches.
